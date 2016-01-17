@@ -1,9 +1,9 @@
-Ôªø<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <html lang="th"
 <html>
   <head>
-    <title>‡∏ó‡∏µ‡πà‡∏ï‡∏±‡πâ‡∏á</title>
+    <title>ª√–«—µ‘</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="utf-8">
     <!-- Bootstrap -->
@@ -37,63 +37,63 @@
           <ul class="navbar-nav nav">
             <li><a href="#">Home</a></li>
             <li class="dropdown">
-              <a data-toggle="dropdown" href="#" class="dropdown-toggle">‡πÅ‡∏ô‡∏∞‡∏ô‡∏≥‡∏à‡∏±‡∏á‡∏´‡∏ß‡∏±‡∏î<b class="caret"></b></a>
+              <a data-toggle="dropdown" href="#" class="dropdown-toggle">·π–π”®—ßÀ«—¥<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="‡∏ó‡∏µ‡πà‡∏ï‡∏±‡πâ‡∏á.html">‡∏ó‡∏µ‡πà‡∏ï‡∏±‡πâ‡∏á</a></li>
+                <li><a href="∑’Ëµ—Èß.html">∑’Ëµ—Èß</a></li>
 				<li class="divider"></li>
-                <li class><a href="‡∏õ‡∏£‡∏∞‡∏ß‡∏±‡∏ï‡∏¥.html">‡∏õ‡∏£‡∏∞‡∏ß‡∏±‡∏ï‡∏¥</a></li>
+                <li class><a href="ª√–«—µ‘.html">ª√–«—µ‘</a></li>
 				<li class="divider"></li>
-                <li><a href="‡∏ß‡∏±‡∏í‡∏ô‡∏ò‡∏£‡∏£‡∏° ‡∏õ‡∏£‡∏∞‡πÄ‡∏û‡∏ì‡∏µ.html">‡∏ß‡∏±‡∏í‡∏ô‡∏ò‡∏£‡∏£‡∏° ‡∏õ‡∏£‡∏∞‡πÄ‡∏û‡∏ì‡∏µ</a></li>
+                <li><a href="«—≤π∏√√¡ ª√–‡æ≥’.html">«—≤π∏√√¡ ª√–‡æ≥’</a></li>
 				<li class="divider"></li>
-                <li class><a href="‡∏™‡∏†‡∏≤‡∏û‡∏≠‡∏≤‡∏Å‡∏≤‡∏®.html">‡∏™‡∏†‡∏≤‡∏û‡∏≠‡∏≤‡∏Å‡∏≤‡∏®</a></li>
+                <li class><a href=" ¿“æÕ“°“».html"> ¿“æÕ“°“»</a></li>
               </ul>
             </li>
             
 			<li class="dropdown">
-			<a data-toggle="dropdown" href="#" class="dropdown-toggle">‡∏™‡∏ñ‡∏≤‡∏ô‡∏ó‡∏µ‡πà‡∏ó‡πà‡∏≠‡∏á‡πÄ‡∏ó‡∏µ‡πà‡∏¢‡∏ß <b class="caret"></b></a>
+			<a data-toggle="dropdown" href="#" class="dropdown-toggle"> ∂“π∑’Ë∑ËÕß‡∑’Ë¬« <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-                <li><a href="#">‡∏ò‡∏£‡∏£‡∏°‡∏ä‡∏≤‡∏ï‡∏¥</a></li>
+                <li><a href="#">∏√√¡™“µ‘</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡∏ó‡∏±‡πà‡∏ß‡πÑ‡∏õ</a></li>              
+                <li class><a href="#">∑—Ë«‰ª</a></li>              
               </ul>
 			  </li>
 			  
 			  <li class="dropdown">
-			<a data-toggle="dropdown" href="#" class="dropdown-toggle">‡∏ó‡∏µ‡πà‡∏û‡∏±‡∏Å <b class="caret"></b></a>
+			<a data-toggle="dropdown" href="#" class="dropdown-toggle">∑’Ëæ—° <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-                <li><a href="#">‡∏≠‡∏≥‡πÄ‡∏†‡∏≠‡πÄ‡∏°‡∏∑‡∏≠‡∏á</a></li>
+                <li><a href="#">Õ”‡¿Õ‡¡◊Õß</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡∏≠‡∏≥‡πÄ‡∏†‡∏≠‡∏à‡∏≠‡∏°‡∏ó‡∏≠‡∏á</a></li>
+                <li class><a href="#">Õ”‡¿Õ®Õ¡∑Õß</a></li>
 				<li class="divider"></li>
-                <li><a href="#">‡∏≠‡∏≥‡πÄ‡∏†‡∏≠‡∏ù‡∏≤‡∏á</a></li>
+                <li><a href="#">Õ”‡¿ÕΩ“ß</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡∏≠‡∏≥‡πÄ‡∏†‡∏≠‡πÄ‡∏ä‡∏µ‡∏¢‡∏á‡∏î‡∏≤‡∏ß</a></li>
+                <li class><a href="#">Õ”‡¿Õ‡™’¬ß¥“«</a></li>
 				<li class="divider"></li>
-				<li class><a href="#">‡∏≠‡∏≥‡πÄ‡∏†‡∏≠‡πÅ‡∏°‡πà‡∏£‡∏¥‡∏°</a></li>
+				<li class><a href="#">Õ”‡¿Õ·¡Ë√‘¡</a></li>
               </ul>
 			  </li>
 			  
 			  <li class="dropdown">
-			<a data-toggle="dropdown" href="#" class="dropdown-toggle">‡∏£‡πâ‡∏≤‡∏ô‡∏≠‡∏≤‡∏´‡∏≤‡∏£ <b class="caret"></b></a>
+			<a data-toggle="dropdown" href="#" class="dropdown-toggle">√È“πÕ“À“√ <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-                <li><a href="#">‡∏≠‡∏≤‡∏´‡∏≤‡∏£</a></li>
+                <li><a href="#">Õ“À“√</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡∏Ç‡∏≠‡∏á‡∏ù‡∏≤‡∏Å</a></li>
+                <li class><a href="#">¢ÕßΩ“°</a></li>
               </ul>
 			  </li>
 			  
 			  <li class="dropdown">
-			<a data-toggle="dropdown" href="#" class="dropdown-toggle">‡∏Å‡∏≤‡∏£‡πÄ‡∏î‡∏¥‡∏ô‡∏ó‡∏≤‡∏á <b class="caret"></b></a>
+			<a data-toggle="dropdown" href="#" class="dropdown-toggle">°“√‡¥‘π∑“ß <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-                <li><a href="#">‡∏£‡∏ñ‡∏¢‡∏ô‡∏ï‡πå</a></li>
+                <li><a href="#">√∂¬πµÏ</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡∏£‡∏ñ‡πÑ‡∏ü</a></li>
+                <li class><a href="#">√∂‰ø</a></li>
 				<li class="divider"></li>
-                <li class><a href="#">‡πÄ‡∏Ñ‡∏£‡∏∑‡πà‡∏≠‡∏á‡∏ö‡∏¥‡∏ô</a></li>
+                <li class><a href="#">‡§√◊ËÕß∫‘π</a></li>
               </ul>
 			  </li>
 					
-            <li><a href="#">‡∏ï‡∏¥‡∏î‡∏ï‡πà‡∏≠‡πÄ‡∏£‡∏≤</a></li>
+            <li><a href="#">µ‘¥µËÕ‡√“</a></li>
           </ul>
         </nav>
       </div>
